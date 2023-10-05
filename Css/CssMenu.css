@@ -1,3 +1,18 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container{
+	width: 100%;
+	background-color: aquamarine;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	position: relative;
+}
+
 h1 {
     color: rgb(253, 188, 7);
     font-size: 50px;
